@@ -2,6 +2,24 @@ name = "azze"
 main = "_worker.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat_v2"]
+[[routes]]
+pattern = "sg1-serverbest.my.id"
+custom_domain = true
+[[routes]]
+pattern = "chat.sociomile.com.sg1-serverbest.my.id"
+custom_domain = true
+[[routes]]
+pattern = "www.uii.ac.id.sg1-serverbest.my.id"
+custom_domain = true
+[[routes]]
+pattern = "quiz.int.vidio.com.sg1-serverbest.my.id"
+custom_domain = true
+[[routes]]
+pattern = "untar.ac.id.sg1-serverbest.my.id"
+custom_domain = true
+[[routes]]
+pattern = "ava.game.naver.com.sg1-serverbest.my.id"
+custom_domain = true
 
 [unsafe.metadata.observability]
 enabled = true
