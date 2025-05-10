@@ -21,8 +21,7 @@ custom_domain = true
 pattern = "ava.game.naver.com.sg1.serverbest.my.id"
 custom_domain = true
 [[routes]]
-pattern = "ganecadigital.com
-sg1.serverbest.my.id"
+pattern = "ganecadigital.com.sg1.serverbest.my.id"
 custom_domain = true
 [[routes]]
 pattern = "learn.ganecadigital.com.sg1.serverbest.my.id"
