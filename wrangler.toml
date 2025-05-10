@@ -3,7 +3,7 @@ main = "_worker.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat_v2"]
 [[routes]]
-pattern = "sg1-serverbest.my.id"
+pattern = "sg1.serverbest.my.id"
 custom_domain = true
 [[routes]]
 pattern = "chat.sociomile.com.sg1-serverbest.my.id"
