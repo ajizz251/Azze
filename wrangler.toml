@@ -9,9 +9,6 @@ custom_domain = true
 pattern = "chat.sociomile.com.sg1.serverbest.my.id"
 custom_domain = true
 [[routes]]
-pattern = "www.uii.ac.id.sg1.serverbest.my.id"
-custom_domain = true
-[[routes]]
 pattern = "quiz.int.vidio.com.sg1.serverbest.my.id"
 custom_domain = true
 [[routes]]
